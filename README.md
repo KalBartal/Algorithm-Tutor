@@ -12,7 +12,7 @@ You will need to have Python and Tkinter library installed on your machine in or
 Running the program
 Download the program and save it on your local machine
 Open the command line/terminal and navigate to the directory where the program is saved
-Run the command python sorting_algorithm_GUI.py
+Run the command python main.py
 The program should open a GUI window containing a dropdown menu and text box.
 Select a sorting algorithm from the dropdown menu, and click the 'select' button.
 The text box will display an explanation of the selected algorithm, along with its time complexity and best/worst case scenarios.
@@ -20,6 +20,9 @@ The text box will display an explanation of the selected algorithm, along with i
 
 Python - The programming language used
 Tkinter - The library used for creating the GUI
+
+![Algorithm Tutor](https://i.imgur.com/GIaw4Vx.png)
+
 ## Author
 
 ### Kal Bartal
