@@ -19,6 +19,7 @@ The text box will display an explanation of the selected algorithm, along with i
 ### Built With
 
 Python - The programming language used
+
 Tkinter - The library used for creating the GUI
 
 ![Algorithm Tutor](https://i.imgur.com/GIaw4Vx.png)
